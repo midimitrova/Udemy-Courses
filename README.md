@@ -22,5 +22,5 @@
 	- Working with PDFs and Spreadsheet CSV Files
 	- Emails with Python
 	- Advanced Python Objects and Data Structures
-	- Introduction ti GUIs
+	- Introduction to GUIs
 	
