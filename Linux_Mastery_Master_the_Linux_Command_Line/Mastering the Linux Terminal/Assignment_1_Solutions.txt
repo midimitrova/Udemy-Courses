@@ -1,0 +1,9 @@
+Task 1
+
+ls /etc | tee file1.txt
+
+ls /run | tee file2.txt
+
+Task 2
+
+cat file1.txt file2.txt > unsorted.txt | sort -r unsorted.txt > reversed.txt
