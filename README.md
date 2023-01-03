@@ -3,7 +3,7 @@
 ## **My solutions to the problems in the following Udemy course:**
 
  - 2022 Complete Python Bootcamp From Zero to Hero in Python - [certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-7a6478cd-6bf4-4a1b-98c2-d0887b705bcb.jpg) 
-
+ - Linux Mastery: Master the Linux Command Line - [certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-22ddd10d-032a-4f4c-b3f4-2527955cf40c.jpg)
  
 ### **Topics covered in the courses:**
 
